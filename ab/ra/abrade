@@ -1,9 +1,1 @@
-{
-    "name": "abrade",
-    "vers": "0.1.0",
-    "deps": [],
-    "cksum": "65b07c5782e771125d9feda1ec08d908087997051339c492220346a14d6dd936",
-    "features": {},
-    "yanked": false,
-    "links": null
-}
+{"name": "abrade","vers": "0.1.0","deps": [],"cksum": "65b07c5782e771125d9feda1ec08d908087997051339c492220346a14d6dd936","features": {},"yanked": false,"links": null}
