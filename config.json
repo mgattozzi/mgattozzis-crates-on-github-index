@@ -1,0 +1,3 @@
+{
+    "dl": "https://github.com/mgattozzi/{crate}/releases/download/v{version}/{crate}-{version}.crate"
+}
